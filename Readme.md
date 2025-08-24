@@ -9,6 +9,7 @@ Welcome to **The Ghost Analyst OSINT Password Generator v1** — a lightweight P
 * Customize password length
 * Uses a full character set (uppercase, lowercase, digits, and punctuation)
 * Simple and easy to use in the terminal
+* Saves generated password to a file and give full path to the .txt file that contains the generated password
 
 ## 📸 Screenshot
 
